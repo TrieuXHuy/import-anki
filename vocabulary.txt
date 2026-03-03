@@ -1,0 +1,120 @@
+word	POS	IPA	Meaning	Example
+take a seat	phr.v	/teɪk ə siːt/	ngồi xuống	Please take a seat here.
+waiter	n	/ˈweɪtər/	người phục vụ bàn	The waiter brought our food.
+shortly	adv	/ˈʃɔːrtli/	sớm thôi	The bus will come shortly.
+until	conj/prep	/ənˈtɪl/	cho tới khi	Wait until I come back.
+staff	n	/stæf/	nhân viên	The staff is very helpful.
+decide	v	/dɪˈsaɪd/	quyết định	I decided to go home.
+place	v	/pleɪs/	đặt, để	She placed the book on the table.
+order	n	/ˈɔːrdər/	đơn hàng, sự đặt hàng	Can I take your order?
+hall	n	/hɔːl/	hội trường	The meeting is in the hall.
+secretary	n	/ˈsekrəteri/	thư ký	The secretary answered the phone.
+membership	n	/ˈmembərʃɪp/	tư cách thành viên	I want to get a club membership.
+join	v	/dʒɔɪn/	tham gia	Can I join your team?
+contact	v/n	/ˈkɑːntækt/	liên lạc	Please contact me by email.
+suggestion	n	/səˈdʒestʃən/	sự gợi ý	Do you have any suggestions?
+suggest	v	/səˈdʒest/	gợi ý	I suggest we eat here.
+future	n/adj	/ˈfjuːtʃər/	tương lai	I want to be a doctor in the future.
+organize	v	/ˈɔːrɡənaɪz/	tổ chức	We organized a small party.
+make sure	phrase	/meɪk ʃʊr/	đảm bảo	Make sure the door is locked.
+vegetarian	n/adj	/ˌvedʒəˈteriən/	người ăn chay	She is a vegetarian.
+plenty of	phrase	/ˈplenti əv/	nhiều	There is plenty of food here.
+prepare	v	/prɪˈper/	chuẩn bị	I prepared my bag last night.
+remind	v	/rɪˈmaɪnd/	nhắc nhở	Please remind me to call her.
+whether	conj	/ˈweðər/	liệu rằng	I don't know whether she is home.
+provide	v	/prəˈvaɪd/	cung cấp	The school provides free books.
+right	adj	/raɪt/	đúng, chuẩn	That is the right answer.
+accidentally	adv	/ˌæksɪˈdentəli/	tình cờ, vô tình	I accidentally broke the glass.
+leave	v	/liːv/	để lại, bỏ quên	I left my bag at school.
+text	v	/tekst/	nhắn tin	She texted me this morning.
+no longer	phrase	/noʊ ˈlɔːŋɡər/	không còn	I no longer live there.
+look for	phr.v	/lʊk fɔːr/	tìm kiếm	I am looking for my keys.
+recently	adv	/ˈriːsəntli/	gần đây	I recently moved to a new house.
+plan	v	/plæn/	lập kế hoạch	I plan to travel next year.
+practise	v	/ˈpræktɪs/	luyện tập	I practise English every day.
+unwell	adj	/ʌnˈwel/	không khỏe	She feels unwell today.
+instead	adv	/ɪnˈsted/	thay vào đó	I can't go, so she went instead.
+invite	v	/ɪnˈvaɪt/	mời	She invited me to her party.
+documentary	n	/ˌdɑːkjəˈmentri/	phim tài liệu	We watched a documentary about animals.
+natural world	n	/ˈnætʃərəl wɜːrld/	thế giới tự nhiên	I love learning about the natural world.
+project	n	/ˈprɑːdʒekt/	dự án, bài tập	I have a school project this week.
+rare	adj	/rer/	quý hiếm	This is a rare bird.
+include	v	/ɪnˈkluːd/	bao gồm	The price includes breakfast.
+desert	n	/ˈdezərt/	sa mạc	The desert is very hot and dry.
+advice	n	/ədˈvaɪs/	lời khuyên	She gave me good advice.
+environment	n	/ɪnˈvaɪrənmənt/	môi trường	We must protect the environment.
+be keen on	phrase	/biː kiːn ɑːn/	thích	She is keen on singing.
+find out	phr.v	/faɪnd aʊt/	tìm hiểu	I want to find out more about it.
+beach	n	/biːtʃ/	bãi biển	We went to the beach on Sunday.
+coast	n	/koʊst/	bờ biển	The coast is beautiful here.
+soundtrack	n	/ˈsaʊndtræk/	nhạc nền	The movie has a great soundtrack.
+famous	adj	/ˈfeɪməs/	nổi tiếng	She is a famous singer.
+musician	n	/mjuˈzɪʃən/	nhạc sỹ	He is a talented musician.
+nature	n	/ˈneɪtʃər/	thiên nhiên	I love spending time in nature.
+mountain range	n	/ˈmaʊntən reɪndʒ/	dãy núi	We can see a mountain range from here.
+film	v	/fɪlm/	quay phim	They filmed the scene outside.
+landscape	n	/ˈlændˌskeɪp/	phong cảnh	The landscape here is beautiful.
+form	v	/fɔːrm/	hình thành	Ice forms when it is very cold.
+human	n	/ˈhjuːmən/	con người	Humans live all over the world.
+affect	v	/əˈfekt/	ảnh hưởng	Noise can affect your sleep.
+wildlife	n	/ˈwaɪldlaɪf/	động vật hoang dã	We must protect wildlife.
+jungle	n	/ˈdʒʌŋɡəl/	rừng rậm	Many animals live in the jungle.
+species	n	/ˈspiːʃiːz/	loài	There are many species of birds here.
+present	v	/prɪˈzent/	trình bày	She presented her project to the class.
+scientist	n	/ˈsaɪəntɪst/	nhà khoa học	The scientist studied the animals.
+sea	n	/siː/	biển	The sea is blue and clean.
+climate change	n	/ˈklaɪmɪt tʃeɪndʒ/	biến đổi khí hậu	Climate change is a big problem.
+rainforest	n	/ˈreɪnˌfɔːrɪst/	rừng nhiệt đới	Many animals live in the rainforest.
+expert	n	/ˈekspɜːrt/	chuyên gia	He is an expert in this field.
+focus on	phr.v	/ˈfoʊkəs ɑːn/	tập trung vào	Let's focus on this problem now.
+creature	n	/ˈkriːtʃər/	sinh vật	A shark is a dangerous creature.
+several	det	/ˈsevərəl/	một vài	There are several books on the table.
+appear	v	/əˈpɪr/	xuất hiện	A bird appeared in the tree.
+unusual	adj	/ʌnˈjuːʒuəl/	khác thường	This flower is very unusual.
+fantastic	adj	/fænˈtæstɪk/	tuyệt vời	The show was fantastic!
+extremely	adv	/ɪkˈstriːmli/	vô cùng	It is extremely cold today.
+shark	n	/ʃɑːrk/	cá mập	I saw a shark in the ocean.
+ice	n	/aɪs/	băng đá	There is ice on the road.
+dry	adj	/draɪ/	khô	The weather is very dry.
+low	adj	/loʊ/	thấp	The temperature is low today.
+be in danger of	phrase	/biː ɪn ˈdeɪndʒər əv/	gặp nguy hiểm	The animal is in danger of disappearing.
+disappear	v	/ˌdɪsəˈpɪr/	biến mất	My pen disappeared.
+altogether	adv	/ˌɔːltəˈɡeðər/	hoàn toàn	The pain stopped altogether.
+care	v	/ker/	quan tâm	She cares about her friends.
+deep	adj	/diːp/	sâu	The ocean is very deep.
+ocean	n	/ˈoʊʃən/	đại dương	The ocean covers most of the Earth.
+record	v	/rɪˈkɔːrd/	ghi hình, thu âm	I recorded the video on my phone.
+region	n	/ˈriːdʒən/	khu vực	This region has a lot of rain.
+end up	phr.v	/end ʌp/	kết thúc ở	We ended up at the park.
+peak	n	/piːk/	đỉnh núi	The peak of the mountain is high.
+miss	v	/mɪs/	nhớ nhung, bỏ lỡ	I miss my family.
+worldwide	adv/adj	/ˌwɜːrldˈwaɪd/	khắp thế giới	The song is famous worldwide.
+orchestra	n	/ˈɔːrkɪstrə/	dàn nhạc	The orchestra played beautiful music.
+damage	n/v	/ˈdæmɪdʒ/	thiệt hại, tổn hại	The storm caused a lot of damage.
+solution	n	/səˈluːʃən/	giải pháp	We need a solution to this problem.
+physics	n	/ˈfɪzɪks/	môn vật lý	I study physics at school.
+professor	n	/prəˈfesər/	giáo sư	The professor taught us today.
+explain	v	/ɪkˈspleɪn/	giải thích	Can you explain this to me?
+influence	n/v	/ˈɪnfluəns/	ảnh hưởng	Music has a big influence on me.
+temperature	n	/ˈtempərətʃər/	nhiệt độ	The temperature is 20 degrees today.
+create	v	/kriˈeɪt/	tạo ra	She created a beautiful painting.
+follow	v	/ˈfɑːloʊ/	theo dõi, dõi theo	I follow her on social media.
+survive	v	/sərˈvaɪv/	sống sót, sinh tồn	Plants need water to survive.
+freezing	adj	/ˈfriːzɪŋ/	rất lạnh, đóng băng	It is freezing outside today.
+continent	n	/ˈkɑːntɪnənt/	lục địa	Africa is a large continent.
+science	n	/ˈsaɪəns/	khoa học	I love science class.
+researcher	n	/rɪˈsɜːrtʃər/	nhà nghiên cứu	The researcher found new information.
+latest	adj	/ˈleɪtɪst/	mới nhất	This is the latest news.
+episode	n	/ˈepɪsoʊd/	tập phim	I watched the new episode last night.
+firework display	n	/ˈfaɪərwɜːrk dɪˈspleɪ/	màn bắn pháo hoa	The firework display was beautiful.
+wonder	v	/ˈwʌndər/	tự hỏi	I wonder what she is doing.
+loud	adj	/laʊd/	to, ồn ào	The music is very loud.
+especially	adv	/ɪˈspeʃəli/	đặc biệt là	I love fruit, especially apples.
+possible	adj	/ˈpɑːsɪbəl/	có thể	Is it possible to come early?
+fact	n	/fækt/	thực tế	That is an interesting fact.
+actually	adv	/ˈæktʃuəli/	thực sự	I actually like that song.
+event	n	/ɪˈvent/	sự kiện	The school has a big event today.
+book tickets	phrase	/bʊk ˈtɪkɪts/	đặt vé	I booked tickets for the show.
+organizer	n	/ˈɔːrɡənaɪzər/	người tổ chức	The organizer was very helpful.
+limit	v/n	/ˈlɪmɪt/	hạn chế, giới hạn	There is a limit of 50 people.
+attend	v	/əˈtend/	tham dự	I will attend the meeting tomorrow.

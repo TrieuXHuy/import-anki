@@ -1,0 +1,120 @@
+word	POS	IPA	Meaning	Example
+take a seat	phr.v	/teɪk ə siːt/	ngồi xuống	Please ___ here.
+waiter	n	/ˈweɪtər/	người phục vụ bàn	The ___ brought our food.
+shortly	adv	/ˈʃɔːrtli/	sớm thôi	The bus will come ___.
+until	conj/prep	/ənˈtɪl/	cho tới khi	Wait ___ I come back.
+staff	n	/stæf/	nhân viên	The ___ is very helpful.
+decide	v	/dɪˈsaɪd/	quyết định	I ___ to go home.
+place	v	/pleɪs/	đặt, để	She ___ the book on the table.
+order	n	/ˈɔːrdər/	đơn hàng, sự đặt hàng	Can I take your ___?
+hall	n	/hɔːl/	hội trường	The meeting is in the ___.
+secretary	n	/ˈsekrəteri/	thư ký	The ___ answered the phone.
+membership	n	/ˈmembərʃɪp/	tư cách thành viên	I want to get a club ___.
+join	v	/dʒɔɪn/	tham gia	Can I ___ your team?
+contact	v/n	/ˈkɑːntækt/	liên lạc	Please ___ me by email.
+suggestion	n	/səˈdʒestʃən/	sự gợi ý	Do you have any ___?
+suggest	v	/səˈdʒest/	gợi ý	I ___ we eat here.
+future	n/adj	/ˈfjuːtʃər/	tương lai	I want to be a doctor in the ___.
+organize	v	/ˈɔːrɡənaɪz/	tổ chức	We ___ a small party.
+make sure	phrase	/meɪk ʃʊr/	đảm bảo	___ the door is locked.
+vegetarian	n/adj	/ˌvedʒəˈteriən/	người ăn chay	She is a ___.
+plenty of	phrase	/ˈplenti əv/	nhiều	There is ___ food here.
+prepare	v	/prɪˈper/	chuẩn bị	I ___ my bag last night.
+remind	v	/rɪˈmaɪnd/	nhắc nhở	Please ___ me to call her.
+whether	conj	/ˈweðər/	liệu rằng	I don't know ___ she is home.
+provide	v	/prəˈvaɪd/	cung cấp	The school ___ free books.
+right	adj	/raɪt/	đúng, chuẩn	That is the ___ answer.
+accidentally	adv	/ˌæksɪˈdentəli/	tình cờ, vô tình	I ___ broke the glass.
+leave	v	/liːv/	để lại, bỏ quên	I ___ my bag at school.
+text	v	/tekst/	nhắn tin	She ___ me this morning.
+no longer	phrase	/noʊ ˈlɔːŋɡər/	không còn	I ___ live there.
+look for	phr.v	/lʊk fɔːr/	tìm kiếm	I am ___ my keys.
+recently	adv	/ˈriːsəntli/	gần đây	I ___ moved to a new house.
+plan	v	/plæn/	lập kế hoạch	I ___ to travel next year.
+practise	v	/ˈpræktɪs/	luyện tập	I ___ English every day.
+unwell	adj	/ʌnˈwel/	không khỏe	She feels ___ today.
+instead	adv	/ɪnˈsted/	thay vào đó	I can't go, so she went ___.
+invite	v	/ɪnˈvaɪt/	mời	She ___ me to her party.
+documentary	n	/ˌdɑːkjəˈmentri/	phim tài liệu	We watched a ___ about animals.
+natural world	n	/ˈnætʃərəl wɜːrld/	thế giới tự nhiên	I love learning about the ___.
+project	n	/ˈprɑːdʒekt/	dự án, bài tập	I have a school ___ this week.
+rare	adj	/rer/	quý hiếm	This is a ___ bird.
+include	v	/ɪnˈkluːd/	bao gồm	The price ___ breakfast.
+desert	n	/ˈdezərt/	sa mạc	The ___ is very hot and dry.
+advice	n	/ədˈvaɪs/	lời khuyên	She gave me good ___.
+environment	n	/ɪnˈvaɪrənmənt/	môi trường	We must protect the ___.
+be keen on	phrase	/biː kiːn ɑːn/	thích	She ___ singing.
+find out	phr.v	/faɪnd aʊt/	tìm hiểu	I want to ___ more about it.
+beach	n	/biːtʃ/	bãi biển	We went to the ___ on Sunday.
+coast	n	/koʊst/	bờ biển	The ___ is beautiful here.
+soundtrack	n	/ˈsaʊndtræk/	nhạc nền	The movie has a great ___.
+famous	adj	/ˈfeɪməs/	nổi tiếng	She is a ___ singer.
+musician	n	/mjuˈzɪʃən/	nhạc sỹ	He is a talented ___.
+nature	n	/ˈneɪtʃər/	thiên nhiên	I love spending time in ___.
+mountain range	n	/ˈmaʊntən reɪndʒ/	dãy núi	We can see a ___ from here.
+film	v	/fɪlm/	quay phim	They ___ the scene outside.
+landscape	n	/ˈlændˌskeɪp/	phong cảnh	The ___ here is beautiful.
+form	v	/fɔːrm/	hình thành	Ice ___ when it is very cold.
+human	n	/ˈhjuːmən/	con người	___ live all over the world.
+affect	v	/əˈfekt/	ảnh hưởng	Noise can ___ your sleep.
+wildlife	n	/ˈwaɪldlaɪf/	động vật hoang dã	We must protect ___.
+jungle	n	/ˈdʒʌŋɡəl/	rừng rậm	Many animals live in the ___.
+species	n	/ˈspiːʃiːz/	loài	There are many ___ of birds here.
+present	v	/prɪˈzent/	trình bày	She ___ her project to the class.
+scientist	n	/ˈsaɪəntɪst/	nhà khoa học	The ___ studied the animals.
+sea	n	/siː/	biển	The ___ is blue and clean.
+climate change	n	/ˈklaɪmɪt tʃeɪndʒ/	biến đổi khí hậu	___ is a big problem.
+rainforest	n	/ˈreɪnˌfɔːrɪst/	rừng nhiệt đới	Many animals live in the ___.
+expert	n	/ˈekspɜːrt/	chuyên gia	He is an ___ in this field.
+focus on	phr.v	/ˈfoʊkəs ɑːn/	tập trung vào	Let's ___ this problem now.
+creature	n	/ˈkriːtʃər/	sinh vật	A shark is a dangerous ___.
+several	det	/ˈsevərəl/	một vài	There are ___ books on the table.
+appear	v	/əˈpɪr/	xuất hiện	A bird ___ in the tree.
+unusual	adj	/ʌnˈjuːʒuəl/	khác thường	This flower is very ___.
+fantastic	adj	/fænˈtæstɪk/	tuyệt vời	The show was ___!
+extremely	adv	/ɪkˈstriːmli/	vô cùng	It is ___ cold today.
+shark	n	/ʃɑːrk/	cá mập	I saw a ___ in the ocean.
+ice	n	/aɪs/	băng đá	There is ___ on the road.
+dry	adj	/draɪ/	khô	The weather is very ___.
+low	adj	/loʊ/	thấp	The temperature is ___ today.
+be in danger of	phrase	/biː ɪn ˈdeɪndʒər əv/	gặp nguy hiểm	The animal ___ disappearing.
+disappear	v	/ˌdɪsəˈpɪr/	biến mất	My pen ___.
+altogether	adv	/ˌɔːltəˈɡeðər/	hoàn toàn	The pain stopped ___.
+care	v	/ker/	quan tâm	She ___ about her friends.
+deep	adj	/diːp/	sâu	The ocean is very ___.
+ocean	n	/ˈoʊʃən/	đại dương	The ___ covers most of the Earth.
+record	v	/rɪˈkɔːrd/	ghi hình, thu âm	I ___ the video on my phone.
+region	n	/ˈriːdʒən/	khu vực	This ___ has a lot of rain.
+end up	phr.v	/end ʌp/	kết thúc ở	We ___ at the park.
+peak	n	/piːk/	đỉnh núi	The ___ of the mountain is high.
+miss	v	/mɪs/	nhớ nhung, bỏ lỡ	I ___ my family.
+worldwide	adv/adj	/ˌwɜːrldˈwaɪd/	khắp thế giới	The song is famous ___.
+orchestra	n	/ˈɔːrkɪstrə/	dàn nhạc	The ___ played beautiful music.
+damage	n/v	/ˈdæmɪdʒ/	thiệt hại, tổn hại	The storm caused a lot of ___.
+solution	n	/səˈluːʃən/	giải pháp	We need a ___ to this problem.
+physics	n	/ˈfɪzɪks/	môn vật lý	I study ___ at school.
+professor	n	/prəˈfesər/	giáo sư	The ___ taught us today.
+explain	v	/ɪkˈspleɪn/	giải thích	Can you ___ this to me?
+influence	n/v	/ˈɪnfluəns/	ảnh hưởng	Music has a big ___ on me.
+temperature	n	/ˈtempərətʃər/	nhiệt độ	The ___ is 20 degrees today.
+create	v	/kriˈeɪt/	tạo ra	She ___ a beautiful painting.
+follow	v	/ˈfɑːloʊ/	theo dõi, dõi theo	I ___ her on social media.
+survive	v	/sərˈvaɪv/	sống sót, sinh tồn	Plants need water to ___.
+freezing	adj	/ˈfriːzɪŋ/	rất lạnh, đóng băng	It is ___ outside today.
+continent	n	/ˈkɑːntɪnənt/	lục địa	Africa is a large ___.
+science	n	/ˈsaɪəns/	khoa học	I love ___ class.
+researcher	n	/rɪˈsɜːrtʃər/	nhà nghiên cứu	The ___ found new information.
+latest	adj	/ˈleɪtɪst/	mới nhất	This is the ___ news.
+episode	n	/ˈepɪsoʊd/	tập phim	I watched the new ___ last night.
+firework display	n	/ˈfaɪərwɜːrk dɪˈspleɪ/	màn bắn pháo hoa	The ___ was beautiful.
+wonder	v	/ˈwʌndər/	tự hỏi	I ___ what she is doing.
+loud	adj	/laʊd/	to, ồn ào	The music is very ___.
+especially	adv	/ɪˈspeʃəli/	đặc biệt là	I love fruit, ___ apples.
+possible	adj	/ˈpɑːsɪbəl/	có thể	Is it ___ to come early?
+fact	n	/fækt/	thực tế	That is an interesting ___.
+actually	adv	/ˈæktʃuəli/	thực sự	I ___ like that song.
+event	n	/ɪˈvent/	sự kiện	The school has a big ___ today.
+book tickets	phrase	/bʊk ˈtɪkɪts/	đặt vé	I ___ for the show.
+organizer	n	/ˈɔːrɡənaɪzər/	người tổ chức	The ___ was very helpful.
+limit	v/n	/ˈlɪmɪt/	hạn chế, giới hạn	There is a ___ of 50 people.
+attend	v	/əˈtend/	tham dự	I will ___ the meeting tomorrow.
